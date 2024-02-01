@@ -4,6 +4,7 @@ import React from "react";
 import Navbar from "./Navbar.jsx";
 import Jumbotron from "./Jumbotron.jsx";
 
+//Home Component
 const Home = () => {
 	return (
 	<div className="Container">

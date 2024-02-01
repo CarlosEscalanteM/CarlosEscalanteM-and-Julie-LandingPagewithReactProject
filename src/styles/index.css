@@ -2,9 +2,11 @@ html {
     position: relative;
     min-height: 100%;
   }
+
   body {
     margin-bottom: 60px;
   }
+  
   .jumbotron{
     padding: 30px 50px 80px 50px;
     margin-bottom: 20px;
