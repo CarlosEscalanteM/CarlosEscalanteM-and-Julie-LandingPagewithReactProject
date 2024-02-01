@@ -2,12 +2,10 @@
 
 import React from "react";
 
-// consider having if...else with 2 different card formations then to put both into home.jsx twice
-
 const Card = () => {
     return (
-        <div className="my-3">
-            <div className="row row-cols-1 row-cols-lg-4 g-4 text-center">
+        <div className="my-3" id="card">
+            <div className="row row-cols-1 row-cols-lg-4 g-4 text-center me-0">
                 <div className="col">
                     <div className="card h-100">
                         <img src="https://loremflickr.com/500/325" className="card-img-top" alt="stock-image" />

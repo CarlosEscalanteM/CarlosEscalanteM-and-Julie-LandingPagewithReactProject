@@ -9,12 +9,12 @@ import Footer from "./Footer.jsx";
 //Home Component
 const Home = () => {
 	return (
-	<div className="Container">
-	    <Navbar />
-	    <Jumbotron />
-        <Card />
-        <Footer />
-	</div>
+		<div className="Container">
+			<Navbar />
+			<Jumbotron />
+			<Card />
+			<Footer />
+		</div>
 	);
 };
 
