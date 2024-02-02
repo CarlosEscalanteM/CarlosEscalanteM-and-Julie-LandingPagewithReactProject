@@ -1,6 +1,8 @@
+//Jumbotron - Carlos
+
 import React from "react";
 
-//Jumbotron - Carlos
+
 const Jumbotron = () => {
         return (
             <div className="jumbotron bg-light">

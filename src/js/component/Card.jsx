@@ -2,6 +2,7 @@
 
 import React from "react";
 
+
 const Card = () => {
     return (
         <div className="my-3" id="card">

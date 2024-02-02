@@ -1,6 +1,8 @@
+//Navbar - Carlos 
+
 import React from "react";
 
-//Navbar - Carlos 
+
 const Navbar = () => {
     return ( 
         <nav className="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
